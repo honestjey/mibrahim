@@ -1,6 +1,6 @@
 # Hi, I'm Mohamed Ibrahim 👋
 
-Transitioning into Business Intelligence and Data Analytics.
+Advancing my career into Business Intelligence and Data Analytics.
 Completed Power BI Developer training at ImpactTek IT Training.
 Active Federal Public Trust Clearance | Falls Church, VA
 
