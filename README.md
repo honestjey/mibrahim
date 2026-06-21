@@ -1,13 +1,13 @@
 # Hi, I'm Mohamed Ibrahim 👋
 
-Advancing my career into Business Intelligence and Data Analytics.
-Completed Power BI Developer training at ImpactTek IT Training.
+Results-driven professional advancing my career into Business Intelligence and Data Analytics.
+Completed hands-on Power BI Developer training at ImpactTek IT Training.
 Active Federal Public Trust Clearance | Falls Church, VA
 
 ## 🔧 Tools & Skills
 - **BI & Reporting:** Power BI, DAX, Calculated Columns & Measures, Power Query, KPI Reporting, Dashboard Development, Power BI Embedded, Row-Level Security (RLS)
-- **Data & ETL:** SQL, Python, M Language, Excel, Data Modeling, Data Transformation, Data Validation, Star Schema Design
-- **Soft Skills:** Stakeholder Collaboration, Requirements Gathering, Technical Documentation
+- **Data & ETL:** SQL, Python, M Language, Excel, Data Analysis, Data Modeling, Data Transformation, Data Validation, Star Schema Design, ETL
+- **Collaboration:** Business Requirements Gathering, Stakeholder Collaboration, Technical Documentation, Troubleshooting, Problem Solving
 
 ## 💼 Experience
 - **AI Data Reviewer (Public Trust Clearance)** — CloudFactory @ NIH, Bethesda, MD *(April 2026 – Present)*
@@ -22,10 +22,13 @@ Active Federal Public Trust Clearance | Falls Church, VA
 - Microsoft Certified: Power BI Data Analyst Associate (PL-300) — *In Progress*
 - Google Data Analytics Professional Certificate *(2024)*
 
-## 📂 Featured Projects
+## 📂 Portfolio & Projects
 - [Power BI Dashboards](https://github.com/honestjey/power-bi-dashboards) — KPI dashboards, DAX calculations, and data modeling
 - [SQL Projects](https://github.com/honestjey/sql-projects) — SQL queries for data analysis *(coming soon)*
 - [Python Projects](https://github.com/honestjey/python-projects) — Python data analysis with Pandas and Matplotlib *(coming soon)*
+
+## 🎯 Seeking
+Junior Power BI Developer | Entry-Level Business Intelligence Analyst
 
 ## 📫 Contact
 - Email: mai5054@live.com
